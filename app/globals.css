@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-gradient-to-br from-sky-100 via-pink-50 to-yellow-50 min-h-screen;
+}
+
+/* 儿童友好风格 */
+.kids-card {
+  @apply bg-white/80 backdrop-blur-sm rounded-3xl shadow-lg border-2 border-white/50;
+}
+
+.kids-button {
+  @apply px-6 py-3 rounded-full font-bold text-white shadow-md transition-all duration-200 hover:scale-105 active:scale-95;
+}
+
+.kids-title {
+  @apply text-3xl md:text-4xl font-bold bg-gradient-to-r from-pink-500 via-purple-500 to-cyan-500 bg-clip-text text-transparent;
+}
+
+/* 地铁线路颜色 */
+.line-color-1 { @apply bg-red-500; }
+.line-color-2 { @apply bg-blue-500; }
+.line-color-3 { @apply bg-green-500; }
+.line-color-4 { @apply bg-yellow-500; }
+.line-color-5 { @apply bg-purple-500; }
+.line-color-6 { @apply bg-pink-500; }
+.line-color-7 { @apply bg-orange-500; }
+.line-color-8 { @apply bg-cyan-500; }
+.line-color-9 { @apply bg-indigo-500; }
+.line-color-10 { @apply bg-teal-500; }
