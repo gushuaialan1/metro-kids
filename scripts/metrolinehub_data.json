@@ -1,0 +1,58 @@
+{
+  "beijing": {
+    "id": "beijing",
+    "name": "北京",
+    "emoji": "🏛️",
+    "lineCount": 0,
+    "stationCount": 0,
+    "lines": []
+  },
+  "shanghai": {
+    "id": "shanghai",
+    "name": "上海",
+    "emoji": "🏙️",
+    "lineCount": 0,
+    "stationCount": 0,
+    "lines": []
+  },
+  "guangzhou": {
+    "id": "guangzhou",
+    "name": "广州",
+    "emoji": "🌸",
+    "lineCount": 0,
+    "stationCount": 0,
+    "lines": []
+  },
+  "shenzhen": {
+    "id": "shenzhen",
+    "name": "深圳",
+    "emoji": "💰",
+    "lineCount": 0,
+    "stationCount": 0,
+    "lines": []
+  },
+  "nanjing": {
+    "id": "nanjing",
+    "name": "南京",
+    "emoji": "🏛️",
+    "lineCount": 0,
+    "stationCount": 0,
+    "lines": []
+  },
+  "chengdu": {
+    "id": "chengdu",
+    "name": "成都",
+    "emoji": "🐼",
+    "lineCount": 0,
+    "stationCount": 0,
+    "lines": []
+  },
+  "chongqing": {
+    "id": "chongqing",
+    "name": "重庆",
+    "emoji": "🌶️",
+    "lineCount": 0,
+    "stationCount": 0,
+    "lines": []
+  }
+}
