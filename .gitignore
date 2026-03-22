@@ -21,3 +21,9 @@ npm-debug.log*
 .env
 .env.local
 .env.*.local
+
+# Logs
+scripts/*.log
+
+# Temporary data files
+scripts/metrolinehub_data.json
