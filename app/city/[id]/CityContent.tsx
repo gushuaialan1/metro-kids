@@ -4,6 +4,17 @@ import { motion } from 'framer-motion';
 import Link from 'next/link';
 import { ArrowLeft, Train, MapPin, Ruler, Clock, ChevronRight } from 'lucide-react';
 import { City } from '@/data/subwayData';
+import dynamic from 'next/dynamic';
+
+// 动态导入SVG地铁图组件（避免SSR问题）
+const SubwayMapViewer = dynamic(() => import('@/app/components/SubwayMapViewer'), {
+  ssr: false,
+  loading: () => (
+    <div className="h-[300px] flex items-center justify-center bg-gray-50 rounded-xl border-2 border-gray-200">
+      <div className="text-gray-400">加载地铁图中...⏳</div>
+    </div>
+  ),
+});
 
 interface CityContentProps {
   city: City;
@@ -58,6 +69,16 @@ export default function CityContent({ city }: CityContentProps) {
           <div className="text-2xl font-bold text-gray-800">2010</div>
           <div className="text-sm text-gray-600">首条开通</div>
         </div>
+      </motion.div>
+
+      {/* Subway Map SVG */}
+      <motion.div
+        initial={{ opacity: 0, y: 20 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ delay: 0.1 }}
+        className="max-w-5xl mx-auto mb-8"
+      >
+        <SubwayMapViewer cityId={city.id} cityName={city.name} />
       </motion.div>
 
       {/* Lines List */}
