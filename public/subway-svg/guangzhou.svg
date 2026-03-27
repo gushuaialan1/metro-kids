@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-50 -50 2544 1686" width="2544" height="1686">
+  <rect x="-50" y="-50" width="2544" height="1686" fill="#f8f9fa"/>
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="1" dy="1" stdDeviation="1" flood-color="#000" flood-opacity="0.1"/>
+    </filter>
+  </defs>
+  <g id="lines">
+    <path d="M1512,709 L1511,708 L1586,712 L1593,713 L1600,717 L1605,721 L1608,724 L1609,729 L1610,732 L1610,777 L1610,830 L1610,833 L1609,835 L1608,838 L1606,840 L1603,842 L1600,843 L1595,843 L1590,843 L1556,843 L1512,843 L1442,843 L1359,842 L1296,842 L1227,842 L1162,842 L1067,842 L985,842 L972,841 L935,841 L911,841 L902,841 L898,842 L896,843 L894,845 L894,848 L893,852 L893,857 L894,881 L894,918 L894,952 L894,986 L895,1023 L896,1061 L895,1063 L893,1066 L892,1067 L890,1068" stroke="#FCD600" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1132,1389 L1047,1389 L970,1389 L917,1417 L845,1417 L770,1417 L691,1417 L603,1417 L519,1417 L422,1417 L323,1418 L211,1418 L206,1417 L202,1415 L199,1412 L197,1409 L197,1371 L196,1368 L195,1366 L192,1364 L190,1363 L170,1363 L88,1363 L23,1363 L6,1363 L4,1364 L2,1365 L1,1367 L0,1369 L0,1386 L0,1419" stroke="#FC0601" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1132,1389 L1199,1337 L1200,1335 L1225,1318 L1247,1301 L1278,1277 L1280,1275 L1280,1273 L1280,1259 L1280,1224 L1279,1189 L1279,1179 L1278,1177 L1277,1175 L1253,1158 L1216,1132 L1178,1103 L1165,1094 L1163,1090 L1162,1085 L1162,1072 L1162,1019 L1162,978 L1162,920 L1162,842 L1162,812 L1162,785 L1162,749 L1162,733 L1162,697 L1162,676 L1163,671 L1166,667 L1171,663 L1189,645 L1190,645 L1225,614 L1262,582 L1299,549 L1334,518 L1368,488 L1407,453" stroke="#0065B3" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1664,661 L1663,661 L1669,661 L1674,662 L1678,665 L1681,667 L1683,670 L1684,673 L1684,678 L1684,698 L1683,746 L1683,804 L1683,836 L1682,839 L1682,841 L1680,842 L1677,843 L1674,843 L1644,843 L1590,843 L1556,843 L1512,843 L1512,850 L1512,921 L1513,1009 L1513,1073 L1513,1132 L1514,1189 L1514,1228 L1514,1277 L1514,1325 L1514,1339 L1514,1342 L1516,1344 L1571,1381 L1629,1417 L1712,1416 L1731,1416 L1745,1414 L1758,1412 L1775,1406 L1804,1390 L1829,1375 L1869,1348 L1925,1310" stroke="#FFA500" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1408,186 L1407,223 L1407,293 L1407,310 L1407,347 L1407,403 L1407,438 L1407,453 L1407,467 L1407,474 L1409,479 L1411,483 L1423,492 L1441,506 L1455,517 L1472,530 L1486,541 L1502,554 L1507,559 L1510,564 L1511,570 L1512,580 L1512,619 L1512,661 L1512,706 L1512,708 L1512,709 L1512,769 L1512,843" stroke="#FFA500" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M2287,1512 L2275,1523 L2262,1535 L2259,1537 L2254,1538 L2249,1538 L2233,1538 L2189,1538 L2172,1538 L2165,1538 L2160,1536 L2155,1534 L2146,1525 L2125,1504 L2104,1484 L2102,1483 L2082,1462 L2059,1441 L2058,1440 L2037,1419 L2014,1397 L1992,1376 L1991,1375 L1970,1354 L1969,1353 L1947,1332 L1925,1310 L1902,1288 L1870,1257 L1848,1232 L1847,1231 L1822,1207 L1820,1205 L1795,1181 L1793,1179 L1791,1177 L1789,1173 L1788,1166 L1787,1129 L1786,1073 L1786,999 L1786,921 L1824,880 L1858,843" stroke="#018237" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M645,897 L702,860 L762,822 L820,785 L866,756 L897,736 L902,734 L908,732 L913,732 L976,732 L982,732 L1056,733 L1162,733 L1188,733 L1191,733 L1193,734 L1195,735 L1217,752 L1236,767 L1237,768 L1239,768 L1241,768 L1289,769 L1359,769 L1360,769 L1407,769 L1408,769 L1432,769 L1437,770 L1440,771 L1441,774 L1441,777 L1442,812 L1442,843 L1443,882 L1443,913 L1444,916 L1445,918 L1447,920 L1450,921 L1512,921 L1557,921 L1594,921 L1653,921 L1690,921 L1715,921 L1740,921 L1786,921 L1819,921 L1824,921 L1828,922 L1831,924 L1857,950 L1888,980 L1889,981 L1908,1000 L1913,1005 L1916,1007 L1921,1008 L1926,1008 L1943,1008 L1950,1008 L1992,1008 L2050,1009 L2073,1009 L2097,1026 L2122,1043 L2155,1068 L2154,1101 L2154,1104 L2154,1143 L2154,1183" stroke="#C5003E" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M661,650 L699,690 L736,728 L758,750 L760,753 L760,755 L760,787 L761,788 L762,822 L762,862 L763,864 L764,865 L795,891 L824,915 L829,917 L835,918 L845,918 L894,918 L987,919 L1064,919 L1065,919 L1162,920 L1211,920 L1266,920 L1321,920 L1345,920 L1349,920 L1353,919 L1356,917 L1358,915 L1359,912 L1359,910 L1359,909 L1359,908 L1359,884 L1359,842 L1359,812 L1359,769 L1359,754 L1359,736 L1359,721 L1359,705 L1359,674 L1360,669 L1361,666 L1363,664 L1367,662 L1371,661 L1379,661 L1391,661 L1456,661 L1512,661 L1594,661 L1663,661 L1664,661 L1669,660 L1674,660 L1678,658 L1682,656 L1713,634 L1742,613 L1748,608 L1751,607 L1755,606 L1799,606 L1838,606 L1876,606 L1916,606 L1952,606 L1989,606 L2025,606 L2062,606 L2109,606" stroke="#741D51" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M661,1586 L743,1586 L823,1586 L850,1586 L855,1586 L860,1584 L867,1581 L870,1579 L875,1575 L930,1537 L978,1502 L1023,1469 L1073,1432 L1132,1389 L1210,1350 L1214,1348 L1245,1333 L1259,1328 L1272,1326 L1341,1326 L1342,1326 L1424,1326 L1514,1325 L1583,1325 L1628,1325 L1657,1325 L1713,1325 L1721,1324 L1727,1323 L1733,1320 L1771,1291 L1838,1240 L1843,1236 L1848,1232 L1897,1181 L1942,1138 L1979,1101 L2014,1068 L2050,1009 L2047,851 L2045,737 L2044,661 L2062,606 L2024,569 L1950,568 L1947,568 L1945,567 L1942,565 L1940,564 L1938,562 L1919,537" stroke="#86B81C" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M816,375 L872,404 L924,431 L970,455 L976,458 L978,460 L980,462 L981,465 L982,468 L982,474 L982,513 L982,558 L982,605 L982,654 L982,696 L982,732 L984,784 L985,805 L985,842 L986,891 L987,919 L1016,969 L1049,1022 L1074,1064 L1078,1068 L1082,1072 L1083,1072 L1085,1072 L1124,1072 L1162,1072 L1251,1072 L1342,1073 L1436,1073 L1513,1073 L1565,1073 L1626,1073 L1682,1073 L1710,1073 L1786,1073" stroke="#008187" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1407,293 L1403,288 L1400,287 L1396,286 L1365,286 L1328,286 L1257,286 L1235,286 L1228,285 L1222,283 L1216,280 L1206,271 L1195,261 L1182,249 L1176,245 L1170,243 L1161,241 L1147,241 L1146,241 L1112,241 L1086,241 L1066,241 L1057,243 L1051,246 L1045,250 L1032,264 L1031,264 L1019,279 L1015,282 L1012,284 L1007,285 L999,286 L978,286 L921,286 L862,286 L824,286 L799,286" stroke="#64BD91" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M895,1063 L892,1057 L916,1108 L931,1137 L936,1145 L939,1149 L943,1153 L949,1155 L956,1156 L965,1157 L974,1158 L986,1158 L1040,1159 L1175,1159 L1253,1158 L1292,1132 L1344,1092 L1368,1073 L1366,1023 L1362,909 L1362,908 L1362,907 L1362,907 L1363,906 L1363,906 L1364,905 L1443,882 L1474,873" stroke="#52A8C9" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1513,1132 L1424,1132 L1353,1132 L1292,1132 L1217,1132 L1086,1132 L1054,1131 L1031,1131 L1026,1131 L1022,1130 L1018,1128 L1014,1126 L1011,1123 L1009,1120 L1008,1116 L1006,1112 L998,1062 L988,1003 L984,972 L982,968 L979,965 L975,961 L970,958 L965,956 L959,954 L953,953 L946,952 L894,952 L820,952 L811,952 L804,952 L798,950 L793,948 L790,945 L788,941 L787,937 L795,891 L812,800 L813,795 L814,791 L815,789 L817,788 L818,786 L820,785 L822,784 L825,784 L829,783 L834,783 L846,783 L984,785 L1062,786 L1101,786 L1118,786 L1122,786 L1125,785 L1129,784 L1134,782 L1148,773 L1223,716 L1230,711 L1234,708 L1239,707 L1243,706 L1248,706 L1254,706 L1267,705 L1297,705 L1326,705 L1333,705 L1359,705 L1512,706 L1578,706 L1600,707 L1615,709 L1634,717 L1650,724 L1663,732 L1675,740 L1683,746 L1690,751 L1697,756 L1703,762 L1708,769 L1710,772 L1711,776 L1712,821 L1714,884 L1715,921 L1710,1073 L1693,1097 L1685,1106 L1684,1106 L1675,1122 L1672,1126 L1670,1128 L1667,1130 L1665,1131 L1661,1131 L1656,1132 L1652,1132 L1626,1132 L1513,1132" stroke="#F9BE58" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M661,650 L694,609 L726,571 L732,565 L736,562 L741,560 L746,558 L753,557 L759,557 L765,557 L874,558 L982,558 L1006,559 L1012,559 L1017,559 L1021,559 L1025,558 L1027,558 L1029,557 L1031,557 L1033,556 L1035,555 L1059,537 L1086,517 L1087,516 L1088,515 L1090,514 L1091,514 L1092,514 L1093,513 L1094,513 L1099,513 L1136,513 L1166,513 L1168,513 L1170,513 L1172,514 L1174,514 L1176,515 L1177,516 L1181,518 L1202,535 L1262,582 L1287,600 L1289,602 L1292,604 L1293,605 L1294,606 L1295,607 L1295,608 L1295,609 L1295,636" stroke="#0F4524" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1417,1005 L1462,1006 L1467,1006 L1472,1007 L1478,1008 L1483,1010 L1488,1011 L1494,1014 L1500,1018 L1541,1052 L1565,1073 L1601,1104 L1602,1105 L1603,1106 L1604,1106 L1606,1107 L1607,1107 L1609,1107 L1610,1107 L1652,1107 L1686,1107 L1717,1107 L1719,1107 L1721,1107 L1723,1108 L1725,1108 L1726,1109 L1728,1111 L1729,1112 L1730,1113 L1752,1139 L1763,1160 L1774,1181 L1781,1188 L1783,1190 L1809,1216 L1838,1240 L1839,1240 L1843,1240" stroke="#0F4524" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1714,884 L1777,882 L1824,880 L1893,903 L1942,922 L1943,924 L1944,926 L1944,927 L1950,1008 L2014,1068 L2040,1068 L2062,1068 L2065,1068 L2081,1068 L2107,1068 L2125,1068 L2155,1068 L2169,1068 L2175,1067 L2181,1065 L2206,1048 L2239,1026 L2258,1013 L2274,1003 L2274,1002 L2296,988 L2301,986 L2308,985 L2340,985 L2372,985 L2392,985 L2393,985 L2430,985 L2444,985" stroke="#818530" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1073,655 L1073,650 L1073,647 L1073,644 L1074,642 L1127,594 L1202,535 L1240,509 L1271,488 L1292,472 L1317,454 L1319,453 L1320,453 L1321,453 L1341,453 L1407,453 L1457,453 L1464,452 L1468,451 L1471,450 L1475,449 L1477,448 L1479,446 L1479,446 L1496,417 L1526,375 L1552,340 L1582,297 L1610,257 L1640,218 L1669,179 L1698,137 L1731,90 L1761,47 L1794,0" stroke="#871C2A" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1640,218 L1681,244 L1718,268 L1757,293 L1758,294 L1799,320 L1839,346 L1879,372 L1922,400 L1964,427 L1984,439 L1988,441 L1992,442 L2017,442 L2046,442" stroke="#871C2A" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1625,893 L1625,927 L1625,970 L1626,1073 L1626,1122 L1626,1132 L1627,1227 L1628,1277 L1628,1325 L1628,1371 L1629,1417 L1629,1446 L1629,1473" stroke="#2249A3" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1714,884 L1749,848 L1750,846 L1752,845 L1753,844 L1755,843 L1757,843 L1759,843 L1762,843 L1764,843 L1802,843 L1858,843 L1857,785 L1856,730 L1855,648 L1855,647 L1855,646 L1855,645 L1856,644 L1858,644 L1860,644 L1906,644 L1965,643 L2019,643 L2022,642 L2024,642 L2025,641 L2026,640 L2026,639 L2025,606 L2024,569 L2023,534 L2022,502 L2022,465 L2043,445 L2043,444 L2044,443 L2045,442 L2046,442 L2046,442 L2102,442 L2157,442 L2214,442 L2269,442 L2322,442 L2379,442 L2435,442" stroke="#0C1335" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M894,952 L828,986 L826,987 L825,988 L824,989 L824,990 L825,1025 L825,1025 L826,1026 L827,1027 L884,1062 L957,1203 L990,1266 L1013,1309 L1043,1364 L1044,1365 L1044,1366 L1045,1366 L1047,1367 L1132,1389 L1391,1389 L1570,1389 L1574,1390 L1579,1390 L1584,1391 L1589,1392 L1629,1417" stroke="#B35A1F" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1513,1009 L1549,1009 L1552,1009 L1554,1008 L1556,1006 L1557,1003 L1557,999 L1557,995 L1557,976 L1557,953 L1557,921 L1557,894 L1556,867 L1556,843 L1556,825 L1556,793 L1556,776 L1555,773 L1554,772 L1552,770 L1549,770 L1545,769 L1512,769" stroke="#02B6E3" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1514,1189 L1279,1189 L1157,1189 L1141,1189 L1131,1188 L1129,1188 L1126,1188 L1124,1187 L1122,1186 L1118,1185 L1092,1167 L1090,1165 L1088,1163 L1086,1159 L1086,1136 L1086,1132 L1085,1109 L1085,1077 L1084,1076 L1084,1074 L1083,1073 L1082,1072 L1078,1068 L1074,1064 L1073,1063 L1072,1062 L1070,1062 L1017,1062 L998,1062 L960,1062 L895,1063 L884,1063 L816,1063 L748,1063 L679,1063 L657,1063 L651,1063 L646,1064 L641,1066 L638,1069 L636,1072 L635,1076 L635,1100 L636,1147 L636,1191 L636,1213 L635,1218 L632,1222 L628,1224 L623,1226 L618,1227 L580,1227 L519,1227 L460,1227 L440,1227 L435,1228 L430,1229 L426,1231 L423,1233 L422,1236 L421,1240 L421,1255 L422,1317 L422,1368 L422,1417 L422,1466 L423,1469 L425,1473 L428,1475 L430,1476 L432,1477 L463,1477 L528,1477 L588,1477" stroke="#B8D201" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g id="stations">
+    <circle cx="884" cy="1062" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="895" cy="1023" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="894" cy="986" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="894" cy="952" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="894" cy="918" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="894" cy="881" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="985" cy="842" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1067" cy="842" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1162" cy="842" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1227" cy="842" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1296" cy="842" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1359" cy="842" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1442" cy="843" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1512" cy="843" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1610" cy="777" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1512" cy="708" r="8" fill="white" stroke="#FCD600" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1132" cy="1389" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1047" cy="1389" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="970" cy="1389" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="917" cy="1417" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="845" cy="1417" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="770" cy="1417" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="691" cy="1417" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="603" cy="1417" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="519" cy="1417" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="422" cy="1417" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="323" cy="1418" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="211" cy="1418" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="170" cy="1363" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="88" cy="1363" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="23" cy="1363" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="0" cy="1386" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="0" cy="1419" r="8" fill="white" stroke="#FC0601" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1132" cy="1389" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1206" cy="1342" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1247" cy="1301" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1280" cy="1259" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1280" cy="1224" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1279" cy="1189" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1253" cy="1158" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1217" cy="1132" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1162" cy="1072" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1162" cy="1019" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1162" cy="978" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1162" cy="920" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1162" cy="842" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1162" cy="812" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1162" cy="785" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1162" cy="733" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1162" cy="697" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1190" cy="646" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1225" cy="614" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1262" cy="582" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1299" cy="549" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1334" cy="518" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1368" cy="488" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1407" cy="453" r="8" fill="white" stroke="#0065B3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1925" cy="1310" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1869" cy="1348" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1804" cy="1390" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1712" cy="1416" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1629" cy="1417" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1571" cy="1381" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1514" cy="1325" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1514" cy="1277" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1514" cy="1228" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1514" cy="1189" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1513" cy="1132" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1513" cy="1073" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1513" cy="1009" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1512" cy="921" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1512" cy="843" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1644" cy="843" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1683" cy="804" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1683" cy="746" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1684" cy="698" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1664" cy="661" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1408" cy="186" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1407" cy="223" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1407" cy="293" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1407" cy="347" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1407" cy="403" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1407" cy="453" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1423" cy="492" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1455" cy="517" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1486" cy="541" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1512" cy="580" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1512" cy="619" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1512" cy="661" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1512" cy="708" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1512" cy="769" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1512" cy="843" r="8" fill="white" stroke="#FFA500" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1858" cy="843" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1824" cy="880" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1786" cy="921" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1786" cy="1073" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1788" cy="1185" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1816" cy="1210" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1843" cy="1236" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1870" cy="1257" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1902" cy="1288" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1925" cy="1310" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1947" cy="1332" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1969" cy="1353" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1992" cy="1375" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2014" cy="1397" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2037" cy="1419" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2059" cy="1440" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2082" cy="1462" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2103" cy="1483" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2125" cy="1504" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2146" cy="1525" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2189" cy="1538" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2233" cy="1538" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2287" cy="1512" r="8" fill="white" stroke="#018237" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="645" cy="897" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="762" cy="822" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="820" cy="785" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="866" cy="756" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="982" cy="732" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1162" cy="733" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1217" cy="752" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1289" cy="769" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1360" cy="769" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1408" cy="769" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1442" cy="843" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1443" cy="882" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1512" cy="921" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1594" cy="921" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1653" cy="921" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1715" cy="921" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1740" cy="921" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1786" cy="921" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1857" cy="950" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1888" cy="981" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1950" cy="1008" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1992" cy="1008" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2050" cy="1009" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2073" cy="1009" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2097" cy="1026" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2122" cy="1043" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2155" cy="1068" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2154" cy="1101" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2154" cy="1143" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2154" cy="1183" r="8" fill="white" stroke="#C5003E" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2109" cy="606" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2062" cy="606" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2025" cy="606" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1989" cy="606" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1952" cy="606" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1916" cy="606" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1876" cy="606" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1838" cy="606" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1799" cy="606" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1742" cy="613" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1713" cy="634" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1664" cy="661" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1512" cy="661" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1456" cy="661" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1359" cy="705" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1359" cy="736" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1359" cy="754" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1360" cy="769" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1359" cy="842" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1360" cy="910" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1266" cy="920" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1211" cy="920" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1162" cy="920" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1065" cy="919" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="987" cy="919" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="894" cy="918" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="795" cy="891" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="762" cy="822" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="761" cy="787" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="736" cy="728" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="699" cy="690" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="661" cy="650" r="8" fill="white" stroke="#741D51" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1919" cy="537" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2024" cy="569" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2062" cy="606" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2044" cy="661" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2045" cy="737" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2047" cy="851" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2050" cy="1009" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2014" cy="1068" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1942" cy="1138" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1897" cy="1181" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1843" cy="1236" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1771" cy="1291" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1713" cy="1325" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1628" cy="1325" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1514" cy="1325" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1424" cy="1326" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1341" cy="1326" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1206" cy="1342" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1132" cy="1389" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1073" cy="1432" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1023" cy="1469" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="978" cy="1502" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="930" cy="1537" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="875" cy="1575" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="823" cy="1586" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="743" cy="1586" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="661" cy="1586" r="8" fill="white" stroke="#86B81C" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="816" cy="375" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="872" cy="404" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="924" cy="431" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="982" cy="474" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="982" cy="513" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="982" cy="558" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="982" cy="605" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="982" cy="654" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="982" cy="696" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="982" cy="732" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="984" cy="785" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="985" cy="842" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="986" cy="891" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="987" cy="919" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1016" cy="969" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1049" cy="1022" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1078" cy="1068" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1124" cy="1072" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1162" cy="1072" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1251" cy="1072" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1342" cy="1073" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1436" cy="1073" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1513" cy="1073" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1565" cy="1073" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1626" cy="1073" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1682" cy="1073" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1710" cy="1073" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1786" cy="1073" r="8" fill="white" stroke="#008187" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1407" cy="293" r="8" fill="white" stroke="#64BD91" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1328" cy="286" r="8" fill="white" stroke="#64BD91" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1257" cy="286" r="8" fill="white" stroke="#64BD91" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1195" cy="261" r="8" fill="white" stroke="#64BD91" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1147" cy="241" r="8" fill="white" stroke="#64BD91" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1086" cy="241" r="8" fill="white" stroke="#64BD91" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1032" cy="265" r="8" fill="white" stroke="#64BD91" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="978" cy="286" r="8" fill="white" stroke="#64BD91" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="921" cy="286" r="8" fill="white" stroke="#64BD91" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="862" cy="286" r="8" fill="white" stroke="#64BD91" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="799" cy="286" r="8" fill="white" stroke="#64BD91" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="884" cy="1062" r="8" fill="white" stroke="#52A8C9" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="916" cy="1108" r="8" fill="white" stroke="#52A8C9" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="986" cy="1158" r="8" fill="white" stroke="#52A8C9" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1040" cy="1159" r="8" fill="white" stroke="#52A8C9" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1175" cy="1159" r="8" fill="white" stroke="#52A8C9" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1253" cy="1158" r="8" fill="white" stroke="#52A8C9" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1292" cy="1132" r="8" fill="white" stroke="#52A8C9" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1344" cy="1092" r="8" fill="white" stroke="#52A8C9" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1366" cy="1023" r="8" fill="white" stroke="#52A8C9" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1360" cy="910" r="8" fill="white" stroke="#52A8C9" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1443" cy="882" r="8" fill="white" stroke="#52A8C9" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1474" cy="873" r="8" fill="white" stroke="#52A8C9" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1626" cy="1132" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1686" cy="1107" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1710" cy="1073" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1715" cy="921" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1714" cy="884" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1712" cy="821" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1683" cy="746" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1650" cy="724" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1512" cy="708" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1359" cy="705" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1326" cy="705" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1297" cy="705" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1267" cy="705" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1234" cy="708" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1062" cy="786" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="984" cy="785" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="820" cy="785" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="795" cy="891" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="790" cy="945" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="894" cy="952" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="988" cy="1003" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="998" cy="1062" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1006" cy="1112" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1031" cy="1131" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1086" cy="1132" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1217" cy="1132" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1292" cy="1132" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1353" cy="1132" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1424" cy="1132" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1513" cy="1132" r="8" fill="white" stroke="#F9BE58" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="661" cy="650" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="694" cy="609" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="874" cy="558" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="982" cy="558" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1059" cy="537" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1136" cy="513" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1202" cy="535" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1262" cy="582" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1295" cy="636" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1417" cy="1005" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1541" cy="1052" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1565" cy="1073" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1652" cy="1107" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1686" cy="1107" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1752" cy="1139" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1788" cy="1185" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1816" cy="1210" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1843" cy="1236" r="8" fill="white" stroke="#0F4524" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1714" cy="884" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1777" cy="882" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1824" cy="880" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1893" cy="903" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1950" cy="1008" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2014" cy="1068" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2065" cy="1068" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2107" cy="1068" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2155" cy="1068" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2206" cy="1048" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2239" cy="1026" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2274" cy="1002" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2340" cy="985" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2392" cy="985" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2444" cy="985" r="8" fill="white" stroke="#818530" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1073" cy="655" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1127" cy="594" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1202" cy="535" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1240" cy="509" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1271" cy="488" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1292" cy="472" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1341" cy="453" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1407" cy="453" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1479" cy="446" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1496" cy="417" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1526" cy="375" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1552" cy="340" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1582" cy="297" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1610" cy="257" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1640" cy="218" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1669" cy="179" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1698" cy="137" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1731" cy="90" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1761" cy="47" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1794" cy="0" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1640" cy="218" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1681" cy="244" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1718" cy="268" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1758" cy="293" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1799" cy="320" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1839" cy="346" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1879" cy="372" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1922" cy="400" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1964" cy="427" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2046" cy="442" r="8" fill="white" stroke="#871C2A" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1625" cy="893" r="8" fill="white" stroke="#2249A3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1626" cy="1073" r="8" fill="white" stroke="#2249A3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1626" cy="1132" r="8" fill="white" stroke="#2249A3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1628" cy="1277" r="8" fill="white" stroke="#2249A3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1628" cy="1325" r="8" fill="white" stroke="#2249A3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1629" cy="1417" r="8" fill="white" stroke="#2249A3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1629" cy="1446" r="8" fill="white" stroke="#2249A3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1629" cy="1473" r="8" fill="white" stroke="#2249A3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1714" cy="884" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1802" cy="843" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1858" cy="843" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1857" cy="785" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1856" cy="730" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1906" cy="644" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1965" cy="643" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2025" cy="606" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2024" cy="569" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2023" cy="534" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2022" cy="502" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2022" cy="465" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2046" cy="442" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2102" cy="442" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2157" cy="442" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2214" cy="442" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2269" cy="442" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2322" cy="442" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2379" cy="442" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="2435" cy="442" r="8" fill="white" stroke="#0C1335" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="894" cy="952" r="8" fill="white" stroke="#B35A1F" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="884" cy="1062" r="8" fill="white" stroke="#B35A1F" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="957" cy="1203" r="8" fill="white" stroke="#B35A1F" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="990" cy="1266" r="8" fill="white" stroke="#B35A1F" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1013" cy="1309" r="8" fill="white" stroke="#B35A1F" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1132" cy="1389" r="8" fill="white" stroke="#B35A1F" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1391" cy="1389" r="8" fill="white" stroke="#B35A1F" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1629" cy="1417" r="8" fill="white" stroke="#B35A1F" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1513" cy="1009" r="8" fill="white" stroke="#02B6E3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1557" cy="999" r="8" fill="white" stroke="#02B6E3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1557" cy="976" r="8" fill="white" stroke="#02B6E3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1557" cy="953" r="8" fill="white" stroke="#02B6E3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1557" cy="894" r="8" fill="white" stroke="#02B6E3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1556" cy="867" r="8" fill="white" stroke="#02B6E3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1556" cy="825" r="8" fill="white" stroke="#02B6E3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1556" cy="793" r="8" fill="white" stroke="#02B6E3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1512" cy="769" r="8" fill="white" stroke="#02B6E3" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1514" cy="1189" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1279" cy="1189" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1141" cy="1189" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1086" cy="1132" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="1078" cy="1068" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="998" cy="1062" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="960" cy="1062" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="884" cy="1062" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="816" cy="1063" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="748" cy="1063" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="679" cy="1063" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="635" cy="1100" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="636" cy="1147" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="636" cy="1191" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="580" cy="1227" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="519" cy="1227" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="460" cy="1227" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="421" cy="1255" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="422" cy="1317" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="422" cy="1368" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="422" cy="1417" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="422" cy="1466" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="463" cy="1477" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="528" cy="1477" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+    <circle cx="588" cy="1477" r="8" fill="white" stroke="#B8D201" stroke-width="4" filter="url(#shadow)"/>
+  </g>
+  <g id="labels">
+    <text x="894" y="1082" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">西塱</text>
+    <text x="895" y="1008" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">坑口</text>
+    <text x="894" y="971" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">花地湾</text>
+    <text x="894" y="972" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">芳村</text>
+    <text x="904" y="938" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">黄沙</text>
+    <text x="894" y="866" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">长寿路</text>
+    <text x="973" y="847" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">陈家祠</text>
+    <text x="1079" y="847" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">西门口</text>
+    <text x="1162" y="862" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">公园前</text>
+    <text x="1239" y="847" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">农讲所</text>
+    <text x="1308" y="847" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">烈士陵园</text>
+    <text x="1369" y="862" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">东山口</text>
+    <text x="1432" y="863" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">杨箕</text>
+    <text x="1502" y="863" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">体育西路</text>
+    <text x="1610" y="762" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">体育中心</text>
+    <text x="1512" y="728" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">广州东站</text>
+    <text x="1132" y="1409" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">广州南站</text>
+    <text x="1057" y="1379" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">林岳东(2号线)</text>
+    <text x="982" y="1394" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">林岳西</text>
+    <text x="929" y="1422" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">石洲</text>
+    <text x="857" y="1422" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">仙涌</text>
+    <text x="782" y="1422" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">花卉世界</text>
+    <text x="703" y="1422" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">登洲</text>
+    <text x="615" y="1422" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">湾华</text>
+    <text x="529" y="1407" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">石梁</text>
+    <text x="412" y="1437" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">魁奇路</text>
+    <text x="333" y="1408" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">沙岗</text>
+    <text x="221" y="1408" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">石湾</text>
+    <text x="182" y="1368" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">张槎</text>
+    <text x="98" y="1353" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">智慧新城</text>
+    <text x="35" y="1368" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">绿岛湖</text>
+    <text x="-10" y="1376" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">湖涌</text>
+    <text x="-10" y="1409" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">南庄</text>
+    <text x="1132" y="1409" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">广州南站</text>
+    <text x="1196" y="1362" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">石壁</text>
+    <text x="1247" y="1286" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">会江</text>
+    <text x="1280" y="1244" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">南浦</text>
+    <text x="1280" y="1209" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">洛溪</text>
+    <text x="1289" y="1209" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">南洲</text>
+    <text x="1253" y="1143" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">东晓南</text>
+    <text x="1205" y="1137" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">江泰路</text>
+    <text x="1150" y="1077" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">昌岗</text>
+    <text x="1162" y="1004" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">江南西</text>
+    <text x="1162" y="963" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">市二宫</text>
+    <text x="1152" y="940" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">海珠广场</text>
+    <text x="1162" y="862" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">公园前</text>
+    <text x="1162" y="797" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">纪念堂</text>
+    <text x="1162" y="770" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">越秀公园</text>
+    <text x="1172" y="753" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">广州火车站</text>
+    <text x="1152" y="687" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">三元里</text>
+    <text x="1190" y="631" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">飞翔公园</text>
+    <text x="1225" y="599" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">白云公园</text>
+    <text x="1252" y="572" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">白云文化广场</text>
+    <text x="1299" y="534" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">萧岗</text>
+    <text x="1334" y="503" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">江夏</text>
+    <text x="1368" y="473" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">黄边</text>
+    <text x="1397" y="473" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">嘉禾望岗</text>
+    <text x="1925" y="1295" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">海傍</text>
+    <text x="1869" y="1333" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">海涌路</text>
+    <text x="1804" y="1375" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">石碁南</text>
+    <text x="1722" y="1406" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">傍江</text>
+    <text x="1617" y="1422" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">番禺广场</text>
+    <text x="1571" y="1366" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">市桥</text>
+    <text x="1524" y="1345" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">汉溪长隆</text>
+    <text x="1504" y="1267" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">大石</text>
+    <text x="1504" y="1218" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">厦滘</text>
+    <text x="1502" y="1194" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">沥滘</text>
+    <text x="1501" y="1137" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">大塘</text>
+    <text x="1523" y="1093" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">客村</text>
+    <text x="1503" y="1029" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">广州塔</text>
+    <text x="1522" y="941" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">珠江新城</text>
+    <text x="1502" y="863" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">体育西路</text>
+    <text x="1654" y="833" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">石牌桥</text>
+    <text x="1673" y="794" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">岗顶</text>
+    <text x="1683" y="731" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">华师</text>
+    <text x="1684" y="683" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">五山</text>
+    <text x="1654" y="681" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">天河客运站</text>
+    <text x="1408" y="171" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">机场北(2号航站楼)</text>
+    <text x="1407" y="208" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">机场南(1号航站楼)</text>
+    <text x="1407" y="278" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">高增</text>
+    <text x="1407" y="332" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">人和</text>
+    <text x="1407" y="388" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">龙归</text>
+    <text x="1397" y="473" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">嘉禾望岗</text>
+    <text x="1423" y="477" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">白云大道北</text>
+    <text x="1455" y="502" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">永泰</text>
+    <text x="1486" y="526" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">同和</text>
+    <text x="1512" y="565" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">京溪南方医院</text>
+    <text x="1512" y="604" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">梅花园</text>
+    <text x="1512" y="681" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">燕塘</text>
+    <text x="1512" y="728" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">广州东站</text>
+    <text x="1502" y="759" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">林和西</text>
+    <text x="1502" y="863" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">体育西路</text>
+    <text x="1846" y="848" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">黄村</text>
+    <text x="1834" y="870" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">车陂</text>
+    <text x="1786" y="941" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">车陂南</text>
+    <text x="1786" y="1058" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">万胜围</text>
+    <text x="1778" y="1175" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">官洲</text>
+    <text x="1806" y="1200" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">大学城北</text>
+    <text x="1833" y="1226" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">大学城南</text>
+    <text x="1870" y="1242" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">新造</text>
+    <text x="1902" y="1273" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">石碁</text>
+    <text x="1925" y="1295" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">海傍</text>
+    <text x="1947" y="1317" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">低涌</text>
+    <text x="1969" y="1338" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">东涌</text>
+    <text x="1992" y="1360" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">庆盛</text>
+    <text x="2014" y="1382" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">黄阁汽车城</text>
+    <text x="2037" y="1404" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">黄阁</text>
+    <text x="2059" y="1425" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">蕉门</text>
+    <text x="2082" y="1447" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">金洲</text>
+    <text x="2103" y="1468" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">飞沙角</text>
+    <text x="2125" y="1489" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">广隆</text>
+    <text x="2146" y="1510" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">大涌</text>
+    <text x="2199" y="1528" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">塘坑</text>
+    <text x="2243" y="1528" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">南横</text>
+    <text x="2287" y="1497" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">南沙客运港</text>
+    <text x="645" y="882" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">滘口</text>
+    <text x="762" y="807" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">坦尾</text>
+    <text x="820" y="805" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">中山八</text>
+    <text x="866" y="776" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">西场</text>
+    <text x="972" y="752" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">西村</text>
+    <text x="1172" y="753" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">广州火车站</text>
+    <text x="1217" y="737" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">小北</text>
+    <text x="1301" y="774" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">淘金</text>
+    <text x="1370" y="789" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">区庄</text>
+    <text x="1418" y="759" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">动物园</text>
+    <text x="1432" y="863" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">杨箕</text>
+    <text x="1433" y="902" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">五羊邨</text>
+    <text x="1522" y="941" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">珠江新城</text>
+    <text x="1604" y="911" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">猎德</text>
+    <text x="1663" y="911" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">潭村</text>
+    <text x="1703" y="926" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">员村</text>
+    <text x="1750" y="911" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">科韵路</text>
+    <text x="1786" y="941" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">车陂南</text>
+    <text x="1857" y="935" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">东圃</text>
+    <text x="1888" y="966" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">三溪</text>
+    <text x="1960" y="1028" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">鱼珠</text>
+    <text x="2004" y="1013" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">大沙地</text>
+    <text x="2038" y="1014" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">大沙东</text>
+    <text x="2073" y="994" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">文冲</text>
+    <text x="2097" y="1011" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">双沙</text>
+    <text x="2122" y="1028" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">庙头</text>
+    <text x="2155" y="1088" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">夏园</text>
+    <text x="2154" y="1086" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">保盈大道</text>
+    <text x="2154" y="1128" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">夏港</text>
+    <text x="2154" y="1168" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">黄埔新港</text>
+    <text x="2109" y="591" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">香雪</text>
+    <text x="2050" y="611" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">萝岗</text>
+    <text x="2035" y="626" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">苏元</text>
+    <text x="2001" y="611" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">暹岗</text>
+    <text x="1964" y="611" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">金峰</text>
+    <text x="1928" y="611" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">黄陂</text>
+    <text x="1888" y="611" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">高塘石</text>
+    <text x="1850" y="611" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">柯木塱</text>
+    <text x="1811" y="611" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">龙洞</text>
+    <text x="1732" y="633" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">植物园</text>
+    <text x="1713" y="619" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">长湴</text>
+    <text x="1654" y="681" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">天河客运站</text>
+    <text x="1512" y="681" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">燕塘</text>
+    <text x="1466" y="651" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">天平架</text>
+    <text x="1347" y="710" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">沙河</text>
+    <text x="1359" y="721" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">沙河顶</text>
+    <text x="1349" y="744" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">黄花岗</text>
+    <text x="1370" y="789" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">区庄</text>
+    <text x="1369" y="862" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">东山口</text>
+    <text x="1350" y="930" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">东湖</text>
+    <text x="1278" y="925" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">团一大广场</text>
+    <text x="1221" y="910" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">北京路</text>
+    <text x="1152" y="940" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">海珠广场</text>
+    <text x="1075" y="909" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">一德路</text>
+    <text x="997" y="939" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">文化公园</text>
+    <text x="904" y="938" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">黄沙</text>
+    <text x="795" y="876" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">如意坊</text>
+    <text x="762" y="807" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">坦尾</text>
+    <text x="751" y="777" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">河沙</text>
+    <text x="736" y="713" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">沙贝</text>
+    <text x="699" y="675" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">横沙</text>
+    <text x="651" y="640" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">浔峰岗</text>
+    <text x="1909" y="527" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">燕山</text>
+    <text x="2012" y="574" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">水西</text>
+    <text x="2050" y="611" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">萝岗</text>
+    <text x="2044" y="646" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">科丰路</text>
+    <text x="2045" y="722" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">加庄</text>
+    <text x="2047" y="836" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">姬堂</text>
+    <text x="2038" y="1014" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">大沙东</text>
+    <text x="2004" y="1058" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">裕丰围</text>
+    <text x="1942" y="1123" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">长洲</text>
+    <text x="1897" y="1166" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">深井</text>
+    <text x="1833" y="1226" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">大学城南</text>
+    <text x="1771" y="1276" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">板桥</text>
+    <text x="1723" y="1315" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">员岗</text>
+    <text x="1616" y="1330" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">南村万博</text>
+    <text x="1524" y="1345" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">汉溪长隆</text>
+    <text x="1436" y="1331" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">钟村</text>
+    <text x="1351" y="1316" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">谢村</text>
+    <text x="1196" y="1362" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">石壁</text>
+    <text x="1132" y="1409" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">广州南站</text>
+    <text x="1073" y="1417" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">大洲</text>
+    <text x="1023" y="1454" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">陈村北</text>
+    <text x="978" y="1487" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">陈村</text>
+    <text x="930" y="1522" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">锦龙</text>
+    <text x="875" y="1560" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">南涌</text>
+    <text x="835" y="1591" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">美的</text>
+    <text x="755" y="1591" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">北滘公园</text>
+    <text x="673" y="1591" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">美的大道</text>
+    <text x="804" y="380" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">滘心</text>
+    <text x="860" y="409" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">亭岗</text>
+    <text x="912" y="436" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">石井</text>
+    <text x="982" y="459" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">小坪</text>
+    <text x="982" y="498" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">石潭</text>
+    <text x="972" y="578" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">聚龙</text>
+    <text x="982" y="590" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">上步</text>
+    <text x="982" y="639" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">同德</text>
+    <text x="982" y="681" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">鹅掌坦</text>
+    <text x="972" y="752" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">西村</text>
+    <text x="972" y="790" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">彩虹桥</text>
+    <text x="973" y="847" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">陈家祠</text>
+    <text x="986" y="876" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">华林寺</text>
+    <text x="997" y="939" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">文化公园</text>
+    <text x="1016" y="954" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">同福西</text>
+    <text x="1049" y="1007" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">凤凰新村</text>
+    <text x="1088" y="1088" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">沙园</text>
+    <text x="1134" y="1062" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">宝岗大道</text>
+    <text x="1150" y="1077" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">昌岗</text>
+    <text x="1261" y="1062" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">晓港</text>
+    <text x="1332" y="1093" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">中大</text>
+    <text x="1446" y="1063" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">鹭江</text>
+    <text x="1523" y="1093" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">客村</text>
+    <text x="1575" y="1093" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">赤岗</text>
+    <text x="1616" y="1093" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">磨碟沙</text>
+    <text x="1694" y="1078" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">新港东</text>
+    <text x="1710" y="1093" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">琶洲</text>
+    <text x="1786" y="1058" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">万胜围</text>
+    <text x="1407" y="278" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">高增</text>
+    <text x="1340" y="291" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">清塘</text>
+    <text x="1267" y="276" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">清布</text>
+    <text x="1195" y="246" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">莲塘</text>
+    <text x="1159" y="246" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">马鞍山公园</text>
+    <text x="1098" y="246" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">花都广场</text>
+    <text x="1032" y="250" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">花果山公园</text>
+    <text x="988" y="276" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">花城路</text>
+    <text x="933" y="291" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">广州北站</text>
+    <text x="872" y="276" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">花都汽车城</text>
+    <text x="811" y="291" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">飞鹅岭</text>
+    <text x="894" y="1082" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">西塱</text>
+    <text x="916" y="1093" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">花围</text>
+    <text x="996" y="1148" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">东沙</text>
+    <text x="1050" y="1149" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">大干围</text>
+    <text x="1185" y="1149" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">工业大道南</text>
+    <text x="1253" y="1143" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">东晓南</text>
+    <text x="1292" y="1152" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">五凤</text>
+    <text x="1344" y="1077" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">中大南门</text>
+    <text x="1356" y="1013" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">滨江东路</text>
+    <text x="1350" y="930" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">东湖</text>
+    <text x="1433" y="902" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">五羊邨</text>
+    <text x="1484" y="863" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">杨箕东</text>
+    <text x="1636" y="1152" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">龙潭</text>
+    <text x="1686" y="1127" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">赤沙</text>
+    <text x="1710" y="1093" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">琶洲</text>
+    <text x="1703" y="926" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">员村</text>
+    <text x="1704" y="874" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">天河公园</text>
+    <text x="1712" y="806" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">华景路</text>
+    <text x="1683" y="731" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">华师</text>
+    <text x="1662" y="729" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">龙口西</text>
+    <text x="1512" y="728" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">广州东站</text>
+    <text x="1347" y="710" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">沙河</text>
+    <text x="1338" y="710" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">云台花园</text>
+    <text x="1307" y="695" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">大金钟路</text>
+    <text x="1279" y="710" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">中医药大学</text>
+    <text x="1224" y="698" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">梓元岗</text>
+    <text x="1072" y="776" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">流花</text>
+    <text x="972" y="790" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">彩虹桥</text>
+    <text x="820" y="805" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">中山八</text>
+    <text x="795" y="876" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">如意坊</text>
+    <text x="780" y="935" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">石围塘</text>
+    <text x="894" y="972" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">芳村</text>
+    <text x="998" y="1023" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">大冲口</text>
+    <text x="988" y="1082" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">沙涌</text>
+    <text x="996" y="1102" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">鹤洞东</text>
+    <text x="1041" y="1121" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">棣园</text>
+    <text x="1076" y="1152" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">燕岗</text>
+    <text x="1205" y="1137" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">江泰路</text>
+    <text x="1292" y="1152" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">五凤</text>
+    <text x="1353" y="1152" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">逸景路</text>
+    <text x="1436" y="1137" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">上涌</text>
+    <text x="1501" y="1137" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">大塘</text>
+    <text x="651" y="640" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">浔峰岗</text>
+    <text x="694" y="594" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">浔峰岗北</text>
+    <text x="886" y="563" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">西洲</text>
+    <text x="972" y="578" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">聚龙</text>
+    <text x="1059" y="522" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">广州白云站</text>
+    <text x="1148" y="518" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">棠涌</text>
+    <text x="1202" y="520" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">新市墟</text>
+    <text x="1252" y="572" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">白云文化广场</text>
+    <text x="1295" y="621" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">广州体育馆</text>
+    <text x="1427" y="995" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">二沙岛</text>
+    <text x="1529" y="1057" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">赤岗塔</text>
+    <text x="1575" y="1093" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">赤岗</text>
+    <text x="1664" y="1112" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">赤沙北</text>
+    <text x="1686" y="1127" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">赤沙</text>
+    <text x="1752" y="1124" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">北山</text>
+    <text x="1778" y="1175" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">官洲</text>
+    <text x="1806" y="1200" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">大学城北</text>
+    <text x="1833" y="1226" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">大学城南</text>
+    <text x="1704" y="874" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">天河公园</text>
+    <text x="1789" y="887" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">棠下</text>
+    <text x="1834" y="870" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">车陂</text>
+    <text x="1905" y="908" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">天河珠村</text>
+    <text x="1960" y="1028" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">鱼珠</text>
+    <text x="2004" y="1058" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">裕丰围</text>
+    <text x="2077" y="1073" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">双岗</text>
+    <text x="2117" y="1058" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">南海神庙</text>
+    <text x="2155" y="1088" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">夏园</text>
+    <text x="2206" y="1033" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">南岗</text>
+    <text x="2239" y="1011" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">沙村</text>
+    <text x="2274" y="987" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">白江</text>
+    <text x="2352" y="990" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">新塘</text>
+    <text x="2404" y="990" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">官湖</text>
+    <text x="2456" y="990" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">新沙</text>
+    <text x="1073" y="640" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">乐嘉路</text>
+    <text x="1117" y="614" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">云霄路</text>
+    <text x="1202" y="520" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">新市墟</text>
+    <text x="1230" y="529" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">马务</text>
+    <text x="1261" y="508" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">鹤边</text>
+    <text x="1282" y="492" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">鹤龙</text>
+    <text x="1351" y="473" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">彭边</text>
+    <text x="1397" y="473" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">嘉禾望岗</text>
+    <text x="1479" y="431" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">白云东平</text>
+    <text x="1496" y="402" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">夏良</text>
+    <text x="1526" y="360" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">太和</text>
+    <text x="1552" y="325" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">竹料</text>
+    <text x="1582" y="282" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">钟落潭</text>
+    <text x="1610" y="242" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">马沥</text>
+    <text x="1630" y="238" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">新和</text>
+    <text x="1669" y="164" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">太平</text>
+    <text x="1698" y="122" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">神岗</text>
+    <text x="1731" y="75" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">赤草</text>
+    <text x="1761" y="32" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">从化客运站</text>
+    <text x="1794" y="-15" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">东风</text>
+    <text x="1630" y="238" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">新和</text>
+    <text x="1681" y="229" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">红卫</text>
+    <text x="1718" y="253" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">新南</text>
+    <text x="1758" y="278" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">枫下</text>
+    <text x="1799" y="305" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">知识城</text>
+    <text x="1839" y="331" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">何棠下</text>
+    <text x="1879" y="357" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">旺村</text>
+    <text x="1922" y="385" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">汤村</text>
+    <text x="1964" y="412" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">镇龙北</text>
+    <text x="2058" y="447" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">镇龙</text>
+    <text x="1625" y="878" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">冼村</text>
+    <text x="1616" y="1093" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">磨碟沙</text>
+    <text x="1636" y="1152" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">龙潭</text>
+    <text x="1628" y="1262" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">沙溪</text>
+    <text x="1616" y="1330" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">南村万博</text>
+    <text x="1617" y="1422" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">番禺广场</text>
+    <text x="1629" y="1431" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">横沥</text>
+    <text x="1629" y="1458" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">万顷沙</text>
+    <text x="1704" y="874" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">天河公园</text>
+    <text x="1814" y="848" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">棠东</text>
+    <text x="1846" y="848" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">黄村</text>
+    <text x="1857" y="770" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">大观南路</text>
+    <text x="1856" y="715" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">天河智慧城</text>
+    <text x="1916" y="634" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">神舟路</text>
+    <text x="1975" y="633" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">科学城</text>
+    <text x="2035" y="626" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">苏元</text>
+    <text x="2012" y="574" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">水西</text>
+    <text x="2023" y="519" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">长平</text>
+    <text x="2022" y="487" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">金坑</text>
+    <text x="2022" y="450" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">镇龙西</text>
+    <text x="2058" y="447" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">镇龙</text>
+    <text x="2112" y="432" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">中新</text>
+    <text x="2169" y="447" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">坑贝</text>
+    <text x="2224" y="432" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">凤岗</text>
+    <text x="2281" y="447" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">朱村</text>
+    <text x="2332" y="432" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">山田</text>
+    <text x="2391" y="447" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">钟岗</text>
+    <text x="2445" y="432" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">增城广场</text>
+    <text x="894" y="972" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">芳村</text>
+    <text x="894" y="1082" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">西塱</text>
+    <text x="957" y="1188" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">南漖</text>
+    <text x="990" y="1251" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">南浦西</text>
+    <text x="1013" y="1294" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">陈头岗</text>
+    <text x="1132" y="1409" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">广州南站</text>
+    <text x="1401" y="1379" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">市广路</text>
+    <text x="1617" y="1422" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">番禺广场</text>
+    <text x="1503" y="1029" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">广州塔</text>
+    <text x="1557" y="984" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">海心沙</text>
+    <text x="1557" y="961" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">大剧院</text>
+    <text x="1557" y="938" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">花城大道</text>
+    <text x="1557" y="879" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">妇儿中心</text>
+    <text x="1556" y="852" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">黄埔大道</text>
+    <text x="1556" y="810" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">天河南</text>
+    <text x="1556" y="778" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">体育中心南</text>
+    <text x="1502" y="759" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">林和西</text>
+    <text x="1502" y="1194" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">沥滘</text>
+    <text x="1289" y="1209" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">南洲</text>
+    <text x="1151" y="1179" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">石溪</text>
+    <text x="1076" y="1152" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">燕岗</text>
+    <text x="1088" y="1088" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">沙园</text>
+    <text x="988" y="1082" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">沙涌</text>
+    <text x="970" y="1052" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">鹤洞</text>
+    <text x="894" y="1082" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">西塱</text>
+    <text x="826" y="1053" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">菊树</text>
+    <text x="758" y="1053" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">龙溪</text>
+    <text x="691" y="1068" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">金融高新区</text>
+    <text x="635" y="1085" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">千灯湖</text>
+    <text x="636" y="1132" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">礌岗</text>
+    <text x="636" y="1176" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">南桂路</text>
+    <text x="590" y="1217" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">桂城</text>
+    <text x="529" y="1217" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">朝安</text>
+    <text x="472" y="1232" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">普君北路</text>
+    <text x="421" y="1240" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">祖庙</text>
+    <text x="422" y="1302" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">同济路</text>
+    <text x="422" y="1353" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="middle" font-weight="500">季华园</text>
+    <text x="412" y="1437" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">魁奇路</text>
+    <text x="412" y="1456" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="end" font-weight="500">澜石</text>
+    <text x="473" y="1467" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">世纪莲</text>
+    <text x="538" y="1467" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">东平</text>
+    <text x="598" y="1467" font-size="11" font-family="Arial, sans-serif" fill="#333" text-anchor="start" font-weight="500">新城东</text>
+  </g>
+</svg>
