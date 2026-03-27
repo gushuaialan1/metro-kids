@@ -6,8 +6,8 @@ import { ArrowLeft, Train, MapPin, Ruler, Clock, ChevronRight } from 'lucide-rea
 import { City } from '@/data/subwayData';
 import dynamic from 'next/dynamic';
 
-// 动态导入SVG地铁图组件（避免SSR问题）
-const SubwayMapViewer = dynamic(() => import('@/app/components/SubwayMapViewer'), {
+// 动态导入高德地铁图组件（避免SSR问题）
+const AMapSubway = dynamic(() => import('@/app/components/AMapSubway'), {
   ssr: false,
   loading: () => (
     <div className="h-[300px] flex items-center justify-center bg-gray-50 rounded-xl border-2 border-gray-200">
@@ -19,6 +19,9 @@ const SubwayMapViewer = dynamic(() => import('@/app/components/SubwayMapViewer')
 interface CityContentProps {
   city: City;
 }
+
+// 高德地图 API Key - 请在此处配置
+const AMAP_API_KEY = process.env.NEXT_PUBLIC_AMAP_KEY || '';
 
 export default function CityContent({ city }: CityContentProps) {
   return (
@@ -71,14 +74,18 @@ export default function CityContent({ city }: CityContentProps) {
         </div>
       </motion.div>
 
-      {/* Subway Map SVG */}
+      {/* AMap Subway */}
       <motion.div
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.1 }}
         className="max-w-5xl mx-auto mb-8"
       >
-        <SubwayMapViewer cityId={city.id} cityName={city.name} />
+        <AMapSubway 
+          cityId={city.id} 
+          cityName={city.name} 
+          apiKey={AMAP_API_KEY}
+        />
       </motion.div>
 
       {/* Lines List */}

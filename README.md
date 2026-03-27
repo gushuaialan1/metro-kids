@@ -34,11 +34,32 @@ cd metro-kids
 # 安装依赖
 npm install
 
+# 配置高德地图 API Key（可选，但推荐）
+cp .env.local.example .env.local
+# 编辑 .env.local，填入你的高德地图 Key
+
 # 启动开发服务器
 npm run dev
 
 # 打开 http://localhost:3000
 ```
+
+## 🔑 高德地图 API Key 配置
+
+本项目使用高德地图 JS API 显示交互式地铁图。
+
+### 申请步骤
+1. 访问 [高德开放平台](https://console.amap.com/dev/key/app)
+2. 注册/登录账号
+3. 创建新应用，选择「Web 端(JS API)」
+4. 复制 Key，填入 `.env.local` 文件
+
+```bash
+NEXT_PUBLIC_AMAP_KEY=你的高德地图Key
+```
+
+### 不配置 Key 会怎样？
+如果不配置 Key，城市详情页将无法显示交互式地铁图，但其他功能（线路列表、站点信息等）仍可正常使用。
 
 ## 📦 构建部署
 
